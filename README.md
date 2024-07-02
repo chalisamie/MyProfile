@@ -8,7 +8,7 @@
 <!--About me-->
 <div align="left">
   <h3> ⭐ &nbsp;About me </h3>
-  <p>&nbsp;I am a student of Front-End, I am 17 years and started my studies year passed about the subject.</p>
+  <p>&nbsp;I am a student of Front-End, I have 18 years and I am looking to deepen my knowledge.</p>
 </div>
 
 <!--The skills-->
